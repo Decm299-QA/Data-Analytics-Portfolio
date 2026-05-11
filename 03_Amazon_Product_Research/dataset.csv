@@ -1,0 +1,4 @@
+product_id,product_name,category,price,rating,reviews,monthly_sales,monthly_revenue
+1,Dog Toy,Pet Supplies,15.99,4.5,320,850,13591
+2,Cat Bed,Pet Supplies,25.50,4.7,210,540,13770
+3,Phone Holder,Electronics,12.99,4.3,150,720,9352
